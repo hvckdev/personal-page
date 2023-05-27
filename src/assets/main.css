@@ -1,6 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@400;700;900&display=swap');
 
 body {
-     font-family: "Urbanist", sans-serif;
-     background-image: url('logo.svg');
+    font-family: "Urbanist", sans-serif;
+}
+
+.background-text {
+    position: absolute;
+
+    font-family: "Urbanist", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 256px;
+    line-height: 264px;
+    color: rgba(161, 0, 255, 0%)!important;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.12);
 }
