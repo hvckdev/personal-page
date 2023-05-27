@@ -5,7 +5,7 @@
 <template>
   <main>
     <div
-        class="bg-black bg-opacity-25 backdrop-blur-md p-6 rounded-xl text-center max-w-md"
+        class="bg-black bg-opacity-25 backdrop-blur-md p-6 rounded-xl text-center max-w-md fade-in"
     >
       <div class="font-bold text-4xl mb-4">hvck</div>
       <p class="text-lg mb-4">
