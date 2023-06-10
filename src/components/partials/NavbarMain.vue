@@ -5,7 +5,7 @@
         <a class="flex-none text-xl font-semibold dark:text-white border-l-4 pl-4" href="/">hvck.dev</a>
         <div class="sm:hidden">
           <button type="button"
-                  class="hs-collapse-toggle p-2 inline-flex justify-center items-center gap-2 rounded-md border font-medium text-gray-700 shadow-sm align-middle hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-white focus:ring-blue-600 transition-all text-sm dark:hover:bg-neutral-800 dark:border-gray-700 dark:text-gray-400 dark:hover:text-white dark:focus:ring-offset-gray-800"
+                  class="hs-collapse-toggle p-2 inline-flex justify-center items-center gap-2 rounded-md border font-medium text-white shadow-sm align-middle hover:bg-neutral-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-white focus:ring-blue-600 transition-all text-sm dark:hover:bg-neutral-800 dark:border-neutral-700 dark:text-neutral-50 dark:hover:text-white dark:focus:ring-offset-neutral-800"
                   data-hs-collapse="#navbar-alignment" aria-controls="navbar-alignment" aria-label="Toggle navigation">
             <svg class="hs-collapse-open:hidden w-4 h-4" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
               <path fill-rule="evenodd"
