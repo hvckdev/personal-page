@@ -6,7 +6,15 @@
   <main>
     <div class="flex items-center justify-center h-[80vh]">
       <div class="max-w-md m-auto p-6 text-center bg-black bg-opacity-25 backdrop-blur-md rounded-xl fade-in">
-        <div class="mb-4 text-4xl font-bold">hvck</div>
+        <div class="hs-tooltip">
+          <div class="hs-tooltip-toggle mb-4 text-4xl font-bold">hvck</div>
+          <span
+              class="hs-tooltip-content hs-tooltip-shown:opacity-100 hs-tooltip-shown:visible opacity-0 transition-opacity inline-block absolute invisible z-10 py-1 px-2 text-xs font-medium text-white rounded-md shadow-sm bg-neutral-900 bg-opacity-25"
+              role="tooltip"
+          >
+                 pronounces as hack
+              </span>
+        </div>
 
         <p class="pl-4 mb-4 text-lg border-l-4">
           Hello, I'm
