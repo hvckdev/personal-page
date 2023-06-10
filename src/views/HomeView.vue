@@ -20,6 +20,7 @@
         <div class="flex justify-center mb-4 space-x-4">
           <a href="https://t.me/hvckdev"><i class="fa-brands fa-telegram"></i></a>
           <a href="https://t.me/hvckxm"><i class="fa-solid fa-brain"></i></a>
+          <a href="https://git.hvck.dev"><i class="fa-brands fa-gitlab"></i></a>
           <a href="mailto:i@hvck.dev"><i class="fa-solid fa-envelope"></i></a>
         </div>
 
