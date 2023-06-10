@@ -1,10 +1,13 @@
 <script setup>
-
+import NavbarMain from './components/partials/NavbarMain.vue';
 </script>
 
 <template>
-  <div class="flex items-center justify-center h-screen text-white bg-black bg-opacity-80">
-    <RouterView /> 
+  <div class="relative bg-no-repeat bg-fixed bg-center bg-cover bg-opacity-80">
+    <div class="text-white">
+      <navbar-main class="sticky top-0"></navbar-main>
+      <RouterView />
+    </div>
   </div>
 </template>
 
