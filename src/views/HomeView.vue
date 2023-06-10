@@ -9,7 +9,21 @@
         <div class="mb-4 text-4xl font-bold">hvck</div>
 
         <p class="pl-4 mb-4 text-lg border-l-4">
-          Hello, I'm hvck, a backend developer with a passion for creating
+          Hello, I'm
+          <span class="hs-tooltip">
+            <span
+                class="hs-tooltip-toggle"
+            >
+              hvck,
+               <span
+                   class="hs-tooltip-content hs-tooltip-shown:opacity-100 hs-tooltip-shown:visible opacity-0 transition-opacity inline-block absolute invisible z-10 py-1 px-2 text-xs font-medium text-white rounded-md shadow-sm bg-neutral-900 bg-opacity-25"
+                   role="tooltip"
+               >
+                 pronounces as hack
+              </span>
+            </span>
+          </span>
+          a backend developer with a passion for creating
           efficient and scalable systems. I have experience in various backend
           technologies such as PHP, Laravel, Symfony, and Kafka. I'm always eager
           to learn more and improve my skills. In my free time, I enjoy exploring
