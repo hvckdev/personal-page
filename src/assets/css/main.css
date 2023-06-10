@@ -2,6 +2,8 @@
 
 body {
     font-family: "Urbanist", sans-serif;
+    background-image: url(../img/marek-piwnicki-_4o-1pr2oqU-unsplash.jpg);
+    background-size: cover;
 }
 
 @keyframes fadeIn {

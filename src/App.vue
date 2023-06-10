@@ -3,8 +3,8 @@
 </script>
 
 <template>
-  <div class="bg-gradient-to-r from-purple-900 via-purple-800 to-purple-700 flex items-center justify-center h-screen text-white">
-    <RouterView />
+  <div class="flex items-center justify-center h-screen text-white bg-black bg-opacity-80">
+    <RouterView /> 
   </div>
 </template>
 

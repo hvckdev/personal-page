@@ -5,26 +5,29 @@
 <template>
   <main>
     <div
-        class="bg-black bg-opacity-25 backdrop-blur-md p-6 rounded-xl text-center max-w-md fade-in"
+        class="max-w-md p-6 text-center bg-black bg-opacity-25 backdrop-blur-md rounded-xl fade-in"
     >
-      <div class="font-bold text-4xl mb-4">hvck</div>
-      <hr class="border-t border-gray-500 my-4">
-      <p class="text-lg mb-4">
+      <div class="mb-4 text-4xl font-bold">hvck</div>
+
+      <p class="pl-4 mb-4 text-lg border-l-4">
         Hello, I'm hvck, a backend developer with a passion for creating
         efficient and scalable systems. I have experience in various backend
         technologies such as PHP, Laravel, Symfony, and Kafka. I'm always eager
         to learn more and improve my skills. In my free time, I enjoy exploring
-        new technologies, reading, and hiking.
+        new technologies, reading, and hiking. Also i enjoy reading psychology books, that improve
+        my productivity and hapiness.
       </p>
-      <hr class="border-t border-gray-500 my-4">
-      <div class="flex justify-center space-x-4 mb-4">
+
+      <div class="flex justify-center mb-4 space-x-4">
         <a href="https://t.me/hvckdev"
-        ><img src="../assets/telegram-icon.svg" alt="Telegram" class="h-6 w-6"
-        /></a>
-        <a href="mailto:i@hvck.dev"><img src="../assets/email-icon.svg" alt="Email" class="h-6 w-6" /></a>
+        ><i class="fa-brands fa-telegram"></i></a>
+           <a href="https://t.me/hvckxm"
+        ><i class="fa-solid fa-brain"></i></a>
+        <a href="mailto:i@hvck.dev"><i class="fa-solid fa-envelope"></i></a>
       </div>
-      <hr class="border-t border-gray-500 my-4">
-      <p class="text-sm">Made with 💖 by ChatGPT - 2023</p>
+
+      <p class="text-sm">Made with 💖</p>
+      <p class="text-sm">2023</p>
     </div>
   </main>
 </template>
