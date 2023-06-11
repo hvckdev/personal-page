@@ -1,7 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
   <main>
     <div class="flex items-center justify-center h-[80vh]">

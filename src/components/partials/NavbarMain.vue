@@ -22,8 +22,8 @@
       <div id="navbar-alignment"
            class="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow sm:block">
         <div class="flex flex-col gap-5 mt-5 sm:flex-row sm:items-center sm:mt-0 sm:pl-5">
-          <router-link class="font-medium hover:text-gray-400 dark:text-gray-400 dark:hover:text-white" to="/" active-class="font-medium hover:text-gray-400 dark:text-white dark:hover:text-white" aria-current="page">Home</router-link>
-          <router-link class="font-medium hover:text-gray-400 dark:text-gray-400 dark:hover:text-white" to="/blog" active-class="font-medium hover:text-gray-400 dark:text-white dark:hover:text-white" aria-current="page">Blog</router-link>
+          <router-link class="font-medium hover:text-gray-400 dark:text-gray-400 dark:hover:text-white" to="/" active-class="font-medium hover:text-gray-400 dark:text-white dark:hover:text-white">Home</router-link>
+          <router-link class="font-medium hover:text-gray-400 dark:text-gray-400 dark:hover:text-white" to="/blog" active-class="font-medium hover:text-gray-400 dark:text-white dark:hover:text-white">Blog</router-link>
         </div>
       </div>
     </nav>
