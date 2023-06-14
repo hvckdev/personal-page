@@ -28,12 +28,12 @@
               </span>
             </span>
           </span>
-            a backend developer. Work with PHP: Symfony, Laravel.
-            I love interesting projects and i'm trying to make the
-            maximum contribution i can to them.
-            I'm not an expert but i'm not to afraid a JS: Vue.
-            I am always in the process of learning, including learning how this or that technology works under the hood.
-            Also i explore psychology that improve my productivity and alone happiness.
+            a backend developer with a passion for creating
+            efficient and scalable systems. I have experience in various backend
+            technologies such as PHP, Laravel, Symfony, and Kafka. I'm always eager
+            to learn more and improve my skills. In my free time, I enjoy exploring
+            new technologies, reading, and hiking. Also i enjoy reading psychology books,
+            that improve my productivity and alone happiness.
           </p>
           <p class="mt-2">
             <a class="hs-collapse-toggle inline-flex items-center gap-x-2 font-medium hover:text-gray-400 dark:text-gray-400 dark:hover:text-white"
