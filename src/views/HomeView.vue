@@ -12,7 +12,7 @@
               </span>
         </div>
 
-        <p class="pl-4 mb-4 text-lg border-l-4">
+        <p class="pl-4 mb-4 text-lg border-l-4 text-left">
           Hello, I'm
           <span class="hs-tooltip">
             <span
@@ -27,12 +27,13 @@
               </span>
             </span>
           </span>
-          a backend developer with a passion for creating
-          efficient and scalable systems. I have experience in various backend
-          technologies such as PHP, Laravel, Symfony, and Kafka. I'm always eager
-          to learn more and improve my skills. In my free time, I enjoy exploring
-          new technologies, reading, and hiking. Also i enjoy reading psychology books,
-          that improve my productivity and alone happiness.
+          I'm a backend developer, I'm deeply committed to designing robust, scalable systems, leveraging my expertise
+          in PHP, Laravel, Symfony, and Kafka. My passion for technology doesn't stop at work. I enjoy delving into new
+          technologies, always eager to unearth their hidden gems.
+          <br>
+          From an early age, I embarked on my coding journey with C++, a path that nurtured my fondness for the
+          aesthetic appeal of computers and the rhythm of typing code. Alongside my tech pursuits, I explore psychology,
+          enriching my professional productivity and personal well-being through insightful literature.
         </p>
 
         <div class="flex justify-center mb-4 space-x-4">
@@ -48,3 +49,5 @@
     </div>
   </main>
 </template>
+<script setup>
+</script>
