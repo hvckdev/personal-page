@@ -1,5 +1,5 @@
 <template>
-  <header class="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full text-sm py-7">
+  <header class="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full text-sm py-5">
     <nav class="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between" aria-label="Global">
       <div class="flex items-center justify-between">
         <a class="flex-none text-xl font-semibold dark:text-white border-l-4 pl-4" href="/">hvck.dev</a>
