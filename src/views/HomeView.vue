@@ -2,7 +2,7 @@
   <main class="text-white">
     <div class="flex items-center justify-center h-screen text-black">
       <div>
-        <div class="mb-4 pl-3.5">
+        <div class="mb-4 pl-4">
           <img src="/src/assets/img/logo.png" class="w-36 h-auto" alt="hvck" />
         </div>
         <div class="flex justify-center m b-4 space-x-4 transition-all">
